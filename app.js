@@ -1,2 +1,2 @@
 // app.js
-console.log('Hello, AWS CI/CD!');
+console.log('CI/CD Pipeline Triggered!');
